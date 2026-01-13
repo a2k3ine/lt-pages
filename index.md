@@ -4,9 +4,17 @@
 
 ---
 
-## 🤖 AI
+## 🤖 ChatGPT Learning Notes Set 
+ChatGPTログを「復習できる学習ノート」に変換するLTで使用するリンク集
 
-- [#1 ChatGPTログを学習ノートに変換（Obsidian × Cursor）](ai-notes)
+- **Cursorが生成した学習ノート（最終）**  
+  https://a2k3ine.github.io/lt-pages/learning-notes
+
+- **プロンプト設計ミスの出力（失敗例）**  
+  https://a2k3ine.github.io/lt-pages/prompt-failure-output
+
+- **AIにさせないこと（禁止事項）**  
+  https://a2k3ine.github.io/lt-pages/prompt-safety
 
 ---
 
@@ -14,8 +22,8 @@
 
 | Date | Event | Talks |
 |------|------|-------|
-| 2026-01-14 | AIミーティング | ai-notes |
-| 2026-01-17 | Women's Base #4 | ai-notes |
+| 2026-01-14 | AIミーティング | ChatGPT Learning Notes Set |
+| 2026-01-17 | Women's Base #4 | ChatGPT Learning Notes Set |
 
 ---
 
