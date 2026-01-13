@@ -1,9 +1,12 @@
-# ai-notes（Cursor出力結果）
+# ChatGPT Learning Notes（最終版）
 
 📘 元記事（Qiita）  
 <a href="https://qiita.com/ChaAndShiro/items/8b394b90b1f82fdea0df" target="_blank">Qiitaで読む</a>
 
-このページには、上記記事で紹介しているプロンプトを Cursor に投げて得た出力結果を掲載します。
+ChatGPTの会話ログを、復習できる「学習ノート」に変換した最終アウトプットです。
+Qiita記事で紹介したプロンプトを Cursor に入力し、JSON化された会話ログから Markdown形式の学習ノートを生成しています。
+
+このページは「生成された学習ノートそのもの」を公開しています。
 
 ---
 
