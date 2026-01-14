@@ -7,7 +7,7 @@
 ## 🤖 ChatGPT Learning Notes Set 
 ChatGPTログを「復習できる学習ノート」に変換するLTで使用するリンク集
 
-- **Cursorが生成した学習ノート（最終）**  
+- **Cursorが生成した「学習ノート」の原文**  
   https://a2k3ine.github.io/lt-pages/learning-notes
 
 - **プロンプト設計ミスの出力（失敗例）**  
