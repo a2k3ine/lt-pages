@@ -15,10 +15,10 @@ ChatGPTログを「復習できる学習ノート」に変換するLTで使用�
 
 ## 📅 Events
 
-| Date       | Event | Talks |
-|------------|-------|-------|
-| 2026-01-14 | [AIミーティング](https://osaka-driven-dev.connpass.com/event/378594/) | ChatGPT Learning Notes Set |
-| 2026-01-17 | [AI駆動開発勉強会 Women's Base #4](https://aid.connpass.com/event/379099/) | ChatGPT Learning Notes Set |
+| Date | Event | Talks |
+|------|-------|-------|
+| 2026-01-14 | <a href="https://osaka-driven-dev.connpass.com/event/378594/" target="_blank" rel="noopener noreferrer">AIミーティング</a> | ChatGPT Learning Notes Set |
+| 2026-01-17 | <a href="https://aid.connpass.com/event/379099/" target="_blank" rel="noopener noreferrer">AI駆動開発勉強会 Women's Base #4</a> | ChatGPT Learning Notes Set |
 
 ---
 
